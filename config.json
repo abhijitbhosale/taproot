@@ -24,12 +24,5 @@
       "title": "📘 Facebook",
       "url": "https://www.facebook.com/share/163xJ1BbKy/"
     }
-  ],
-
-  "theme": {
-    "background": "#111111",
-    "color": "#ffffff",
-    "accent": "#00c853",
-    "font": "sans-serif"
-  }
+  ]
 }
